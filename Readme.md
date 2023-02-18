@@ -2,6 +2,9 @@
 
 This repo shows a very simple use case of how to use beautiful soup to scrape a website.
 
+It scrapes 3 websites and extracts information about the customers of the website.
+
+
 ## How to run
 
 Assuming you work on a unix based system, and that you have python3 already available.
@@ -21,3 +24,9 @@ Run the main python file with
 python3 main.py
 ```
 The output will be in [page_customers_info.json](page_customers_info.json)
+
+
+## How to run tests
+```shell
+python3 -m unittest discover
+```

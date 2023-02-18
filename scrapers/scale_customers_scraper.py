@@ -10,27 +10,23 @@ def scale_customers_scraper() -> list[Customer]:
     page = requests.get(URL)
     soup = BeautifulSoup(page.content, "html5lib")
     customer_articles = soup.find_all("article")
-    logo, name = parse_article(customer_articles[0])
-    Customer(name=name, logo_url=logo)
-    customers = []
-    for article in customer_articles:
-        logo, name = parse_article(article)
-        customers.append(Customer(name=name, logo_url=logo))
-    return customers
+    return [_parse_article(article) for article in customer_articles]
 
 
-def parse_article(article):
-    return parse_logo(article), parse_name(article)
+def _parse_article(article):
+    return Customer(
+        logo_url=_parse_logo(article),
+        name=parse_name(article))
 
 
-def parse_logo(article):
-    logo_element = find_logo_img_element(article)
+def _parse_logo(article):
+    logo_element = _find_logo_img_element(article)
     if logo_element:
         return logo_element["src"]
     else:
         return None
 
-def find_logo_img_element(article):
+def _find_logo_img_element(article):
     image_elements = article.find_all("img")
     for image_element in image_elements:
         if "logo" in image_element["alt"]:
@@ -38,7 +34,7 @@ def find_logo_img_element(article):
 
 
 def parse_name(article):
-    logo_element = find_logo_img_element(article)
+    logo_element = _find_logo_img_element(article)
     if logo_element:
         alt_text = logo_element["alt"].strip()
         text = alt_text.replace("Customer Success Story: ", "")
