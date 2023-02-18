@@ -9,5 +9,6 @@ class Scraper:
 
     def scrape(self) -> Page:
         page = Page(name=self.page_name, customers=[])
+        print(f"Scraping {self.page_name} page...")
         page.customers = self.scraping_function()
         return page

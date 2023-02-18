@@ -15,3 +15,9 @@ Install the requirements with
 ```shell
 pip3 install -r requirements.txt
 ```
+
+Run the main python file with
+```shell 
+python3 main.py
+```
+The output will be in [page_customers_info.json](page_customers_info.json)

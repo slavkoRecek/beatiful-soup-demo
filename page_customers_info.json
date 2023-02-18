@@ -1,0 +1,225 @@
+[
+    {
+        "name": "scale",
+        "customers": [
+            {
+                "name": "Advanced.farm",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F7b944e54ab1a410b9a82f9634848c72a"
+            },
+            {
+                "name": "Kaleido AI",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F2a4e8714b1a84d1181f08fc8351ad76c"
+            },
+            {
+                "name": "Kodiak Robotics",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F2301332d56554e97ae2a89a76a1516d1"
+            },
+            {
+                "name": "Voxel",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2Fbd95f56f7b0d45e188d6d6c466df4605"
+            },
+            {
+                "name": "Velodyne Lidar",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F910aabc7778f4309abc0f894b3327856"
+            },
+            {
+                "name": "Brex",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2Fb8162295401541e09b4aca652b81e848"
+            },
+            {
+                "name": "OpenAI logo",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2Ff9910bc783bf441faa9d8663c1f23975"
+            },
+            {
+                "name": "Sea Machines Robotics",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F90fa3a2070e34029acfd5c2e32503b67"
+            },
+            {
+                "name": "Toyota",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F5f0f923861534572aea18b0dbf184607"
+            },
+            {
+                "name": "Voyage",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F53c7bb8860e547689634c36462b778bf"
+            },
+            {
+                "name": "Yuka",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F8e902edf34794c19aa73ab09e2654e17"
+            },
+            {
+                "name": "Harvard Medical School",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F0c3e74047a0d42559b3537a97d2398d7"
+            },
+            {
+                "name": "Orchard Robotics",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2Fce490a059ff544359fc1563f2055c395"
+            },
+            {
+                "name": "Nuro",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F64335f17171d4a4188098d417ee0edfd"
+            },
+            {
+                "name": "Flexport",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2Fd3c4a71eb74e409e9f6b1a0bdf405f6e"
+            },
+            {
+                "name": "Cellareye",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2Fb3fe2a0a7c2f4804be5705ec54651376"
+            },
+            {
+                "name": "Optimus Ride",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F9a54ce0510ae460ab1c9c20de9890618"
+            },
+            {
+                "name": "Standard Cognition",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F9f21882f6bdf4d59a26d4ba47e1cc28f"
+            },
+            {
+                "name": "Skydio",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2Fc25499b25fd44ba4a4890a6aaebe7813"
+            },
+            {
+                "name": "Goodcall",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2Fea5f9ce2f3f544eab177902e93894fab"
+            },
+            {
+                "name": "OpenSea",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2Ffdca5fe63f964689ae1574ac8313f53e"
+            },
+            {
+                "name": "Ambi Robotics",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F869c6e1193594fd1989e68eebbec4746"
+            },
+            {
+                "name": "SAP",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F8001819227244f0d86ff23042a963854"
+            },
+            {
+                "name": "TimberEye",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F672677d91f3b458796cb692094f994fb"
+            },
+            {
+                "name": "States Title",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F3ec72442b26d453db4b02dc3deb294f0"
+            },
+            {
+                "name": "OTTO Motors",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2Fa237851a2ddf4e55b942258a199392c1"
+            },
+            {
+                "name": "Embark",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F63ed6e2361bc4b7aa40737f4bf2ac493"
+            },
+            {
+                "name": "Skip",
+                "logo_url": "https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2Faaabb0c6a34e4a2db6d1fa5b1044251f"
+            }
+        ]
+    },
+    {
+        "name": "deel",
+        "customers": [
+            {
+                "name": "nike",
+                "logo_url": "https://www.deel.com/hubfs/nike.svg"
+            },
+            {
+                "name": "dropbox",
+                "logo_url": "https://www.deel.com/hubfs/dropbox.svg"
+            },
+            {
+                "name": "shopify",
+                "logo_url": "https://www.deel.com/hubfs/shopify.svg"
+            },
+            {
+                "name": "Forever",
+                "logo_url": "https://www.deel.com/hubfs/Forever_21_logo%201.svg"
+            },
+            {
+                "name": "Reebok",
+                "logo_url": "https://www.deel.com/hubfs/Reebok_Logo_2019%201.svg"
+            },
+            {
+                "name": "intercom",
+                "logo_url": "https://www.deel.com/hubfs/intercom-logo-white.svg"
+            },
+            {
+                "name": "Logo",
+                "logo_url": "https://www.deel.com/hubfs/Deel/Images/Logo-notion.svg"
+            },
+            {
+                "name": "Revolut",
+                "logo_url": "https://www.deel.com/hubfs/Revolut-Logo.white.svg"
+            },
+            {
+                "name": "Subway",
+                "logo_url": "https://www.deel.com/hubfs/Subway_2016_logo%201.svg"
+            },
+            {
+                "name": "Reddit",
+                "logo_url": "https://www.deel.com/hubfs/Reddit.svg"
+            },
+            {
+                "name": "Calvin Klein",
+                "logo_url": "https://www.deel.com/hubfs/Calvin%20Klein.svg"
+            },
+            {
+                "name": "Red Bull",
+                "logo_url": "https://www.deel.com/hubfs/Red%20Bull.svg"
+            },
+            {
+                "name": "Zapier",
+                "logo_url": "https://www.deel.com/hubfs/Zapier.svg"
+            }
+        ]
+    },
+    {
+        "name": "webflow",
+        "customers": [
+            {
+                "name": "Zendesk",
+                "logo_url": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d4234885e4c2e7955fc993c_zendesk.svg"
+            },
+            {
+                "name": "Rakuten",
+                "logo_url": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5f68c5ab2b2bc1f1cce91512_rakuten-logo-black.svg"
+            },
+            {
+                "name": "",
+                "logo_url": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/63601e7de4cee932ead423db_logo-nyt.svg"
+            },
+            {
+                "name": "Dell",
+                "logo_url": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/614898ff2064cdb3edb45ec0_dell-black.svg"
+            },
+            {
+                "name": "Upwork",
+                "logo_url": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5f68c62e7e087c31a302df7b_upwork-black-webclip.svg"
+            },
+            {
+                "name": "Lattice",
+                "logo_url": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d4b269921bce7314c68055f_Page%201.svg"
+            },
+            {
+                "name": "PWC",
+                "logo_url": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/618d7c5ba338e335284bd8ce_logo-pwc.svg"
+            },
+            {
+                "name": "Getaround",
+                "logo_url": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d4c8b2c574a787655d450ce_getaround.svg"
+            },
+            {
+                "name": "Hellosign",
+                "logo_url": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5f9880bc2c1d2a36c4cd639b_hellosign.svg"
+            },
+            {
+                "name": "Petal",
+                "logo_url": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5f6bac6a70255801a19ae02e_petal-black.svg"
+            },
+            {
+                "name": "Vice",
+                "logo_url": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/62ed89cc58b878aa2c44aae2_logo-vice.svg"
+            }
+        ]
+    }
+]
