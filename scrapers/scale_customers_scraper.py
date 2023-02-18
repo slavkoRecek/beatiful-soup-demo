@@ -30,7 +30,6 @@ def parse_logo(article):
     else:
         return None
 
-
 def find_logo_img_element(article):
     image_elements = article.find_all("img")
     for image_element in image_elements:

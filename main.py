@@ -2,6 +2,7 @@ import dataclasses
 import json
 
 from data import Page
+from scrapers.deel_customers_scraper import deel_customers_scraper
 from scrapers.scale_customers_scraper import scale_customers_scraper
 from scraper import Scraper
 
@@ -12,16 +13,17 @@ def export_pages(scraped_pages: list[Page]):
         json_file.write(json.dumps([dataclasses.asdict(page) for page in scraped_pages]))
 
 
-def create_scale_scraper():
-    return Scraper(page_name='scale', scraping_function=scale_customers_scraper)
-
 
 def scrape_pages():
     scraped_pages = []
 
-    scale_scraper = create_scale_scraper()
-    scale_page: Page = scale_scraper.scrape()
-    scraped_pages.append(scale_page)
+    scale_scraper = Scraper(page_name='scale', scraping_function=scale_customers_scraper)
+    # scale_page: Page = scale_scraper.scrape()
+    # scraped_pages.append(scale_page)
+
+    deel_scraper = Scraper(page_name='deel', scraping_function=deel_customers_scraper)
+    deel_page: Page = deel_scraper.scrape()
+    scraped_pages.append(deel_page)
 
     export_pages(scraped_pages)
 
